@@ -3,9 +3,6 @@
 This repository contains all the work and assignments completed throughout the semester for the **Database Foundation** course. It includes various projects, exercises, and database modeling practices to build a solid understanding of database concepts, design, and implementation.
 
 ## Contents
-- **Assignments**: Folder containing individual tasks assigned during the course.
-- **Projects**: Complete database projects developed to apply theoretical concepts in practical scenarios.
-- **Notes**: Course notes, study materials, and references used throughout the semester.
 - **Workshops**: Specific hands-on workshops and their related documentation.
 
 ## Course Overview
